@@ -71,3 +71,25 @@ p:hover {
     font-size: 23px;
    }
 }
+
+@media screen and (min-width: 426px) and (max-width: 560px) {
+    .con1 {
+        margin: auto;
+        font-size: 17px;
+    }
+    .con2 {
+        margin: auto;
+        font-size: 17px;
+    }
+    .con3 {
+        margin: auto;
+        font-size: 17px;
+
+    }
+    .title h1 {
+        font: 25px;
+    }
+    .hac p {
+        font-size: 20px;
+    }
+}
